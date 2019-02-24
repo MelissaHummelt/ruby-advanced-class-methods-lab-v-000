@@ -28,5 +28,5 @@ class Song
     @@all << name
     song
   end
-  
+
 end
